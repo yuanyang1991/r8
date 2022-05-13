@@ -1,5 +1,10 @@
 # D8 dexer and R8 shrinker
 
+
+Clone from AOSP, add some features:
+-[] keep cold start class in main dex afer android L to improve cold start speed
+
+
 The R8 repo contains two tools:
 
 - D8 is a dexer that converts java byte code to dex code.
